@@ -1,2 +1,2 @@
 # TheGoblinsNotebot
-A Discord bot to retrieve and post entries from The Goblin's Notebook.
+A Discord bot to retrieve entries from The Goblin's Notebook and post them to Discord.
