@@ -17,11 +17,12 @@ You'll need an operation Python install that is up and available so long as you 
 ### Create An .env File 
 You'll alsp need a .env file which conatins the following keys and values used by the script to access the API at https://www.the-goblin.net/.  
 
+```
 GOBLIN_CAMPAIGN_ID = "xxxxxxxx"
 GOBLIN_OWNER_API_KEY = "xxxxxxxxxx"
 GOBLIN_OWNER_SECRET = "<Secret>"
 GOBLIN_PLAYER_API_KEY = "xxxxxxxxxx"
 GOBLIN_PLAYER_SECRET = "<Secret>"
 DISCORD_BOT_TOKEN = "Put your Bot Token Here"
-
+```
 Make sure to fill these in with the proper values.
